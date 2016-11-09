@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8079B01F1C33077A00E9DE20 /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8079B01E1C33077A00E9DE20 /* image2.jpg */; };
+		807D57CF1DD3E35E00E1AB18 /* BuildPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 807D57CE1DD3E35E00E1AB18 /* BuildPlist.plist */; };
 		8081F75B1C28E920005A6207 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8081F75A1C28E920005A6207 /* main.m */; };
 		8081F75E1C28E920005A6207 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8081F75D1C28E920005A6207 /* AppDelegate.m */; };
 		8081F7611C28E920005A6207 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8081F7601C28E920005A6207 /* ViewController.m */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		8079B01E1C33077A00E9DE20 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
+		807D57CE1DD3E35E00E1AB18 /* BuildPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BuildPlist.plist; sourceTree = "<group>"; };
 		8081F7561C28E920005A6207 /* TaxCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaxCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8081F75A1C28E920005A6207 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8081F75C1C28E920005A6207 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 		8081F7581C28E920005A6207 /* TaxCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				807D57CE1DD3E35E00E1AB18 /* BuildPlist.plist */,
 				8081F75C1C28E920005A6207 /* AppDelegate.h */,
 				8081F75D1C28E920005A6207 /* AppDelegate.m */,
 				8081F75F1C28E920005A6207 /* ViewController.h */,
@@ -140,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				807D57CF1DD3E35E00E1AB18 /* BuildPlist.plist in Resources */,
 				8081F7691C28E920005A6207 /* LaunchScreen.storyboard in Resources */,
 				8081F7661C28E920005A6207 /* Assets.xcassets in Resources */,
 				8079B01F1C33077A00E9DE20 /* image2.jpg in Resources */,

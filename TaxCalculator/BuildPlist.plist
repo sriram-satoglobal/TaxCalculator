@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>embedOnDemandResourcesAssetPacksInBundle</key>
+	<false/>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://dl.dropboxusercontent.com/s/8ek0rrpcmigahk4/SGSRegistration.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://dl.dropboxusercontent.com/s/fzte52knxznufp5/image.57x57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://dl.dropboxusercontent.com/s/jaso3tjw81tpdu4/image.512x512.png</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>teamID</key>
+	<string>UM83DWBEMG</string>
+	<key>uploadBitcode</key>
+	<false/>
+	<key>uploadSymbols</key>
+	<false/>
+</dict>
+</plist>
