@@ -15,7 +15,7 @@
 		<key>fullSizeImageURL</key>
 		<string>https://dl.dropboxusercontent.com/s/jaso3tjw81tpdu4/image.512x512.png</string>
 	</dict>
-	<key>method</key>
+	<key>export_method</key>
 	<string>enterprise</string>
 	<key>teamID</key>
 	<string>UM83DWBEMG</string>
